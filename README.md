@@ -1,8 +1,10 @@
 # Elementary-graph-modules
 
-# COMPLIE - make all,
+# COMPLIE 
+-> make all
 
-# RUN     - ./final, in terminal
+# RUN
+-> ./final
 
 # Module 1
 
@@ -35,4 +37,3 @@ Test_bridges(Graph G)
 MST_Prim(Graph G)
 MST_Kruskal(Graph G)
 MST_youralgo(Graph G)
-
